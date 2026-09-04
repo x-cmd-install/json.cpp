@@ -1,22 +1,24 @@
 about:
-  description: JSON for Classic C++
+  description:
+  |
+    JSON for Classic C++
   license: NOASSERTION
   homepage: 
   head: ccb9195
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:18:49Z
+  collectedAt: 2026-09-04T19:23:58Z
 timeline:
   created: 2024-10-30
   lastCommit: 2026-04-08
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 794
   watcher: 14
   fork: 38
   release: 0
   contributor: 7
-  pullRequest: 1
+  pullRequest: 11
   issue: 9
 language:
   C++: 2802129
@@ -51,10 +53,18 @@ language:
   JavaScript: 227
   Nim: 166
   QMake: 132
-totalLine: 5015348
+totalBytes: 5015348
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -85,3 +95,21 @@ recent:
     closedIssue: 0
     openIssue: 1
     commit: 4
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 10
+    openPR: 1
+    closedIssue: 7
+    openIssue: 2
+    commit: 39
+total:
+  release: 0
+  mergedPR: 10
+  openPR: 1
+  closedIssue: 7
+  openIssue: 2
+  commit: 39
+---
+---
+
