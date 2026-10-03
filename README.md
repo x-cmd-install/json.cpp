@@ -31,7 +31,7 @@ Total: **100,687** lines of code across **220** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 797 · **Forks**: 38 · **Open issues**: 9 · **Contributors**: 7
+- **Stars**: 796 · **Forks**: 38 · **Open issues**: 9 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **100,687** lines of code across **220** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-05 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-10-07 | 0 | 4 | 1 | 0 | 1 | 4 |
-| last720d | 2024-10-12 | 0 | 10 | 1 | 7 | 2 | 39 |
+| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-10-08 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last720d | 2024-10-13 | 0 | 10 | 1 | 7 | 2 | 39 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for json.cpp lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:33:24Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:15:58Z._
