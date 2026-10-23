@@ -1,0 +1,33 @@
+- repo: nix_stable_25_11
+  srcname: jart-jsoncpp
+  visiblename: json.cpp
+  version: 0-unstable-2025-10-25
+  origversion: null
+  status: unique
+  summary: JSON for Classic C++
+  maintainers:
+    - farid.m.zakaria@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: jart-jsoncpp
+  visiblename: json.cpp
+  version: 0-unstable-2025-10-25
+  origversion: null
+  status: unique
+  summary: JSON for Classic C++
+  maintainers:
+    - farid.m.zakaria@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: jart-jsoncpp
+  visiblename: json.cpp
+  version: 0-unstable-2025-10-25
+  origversion: null
+  status: unique
+  summary: JSON for Classic C++
+  maintainers:
+    - farid.m.zakaria@gmail.com
+  licenses:
+    - Apache-2.0
